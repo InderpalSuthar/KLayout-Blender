@@ -4,4 +4,5 @@ I have render two type of chip and one is circular transmon qubit that is presen
 This repo contain three GDS file and Three blender file and two Jupyter Notebook file for creating a complete quantum chip and exports it to GDS.  
 (1) Quantiqo Full Chip - Export the GDS design using the Qiskit-Metal  
 (2) 4 Qubit Demo Chip - Export the GDS Design using Qiskit-Metal  
-(3) Circular Transmon Qubit - GDS design already available in KLayout in Qubit Library
+(3) Circular Transmon Qubit - GDS design already available in KLayout in Qubit Library  
+Shout to - Onry Jay Benally (Quantum Hardware Engineer at IBM)
